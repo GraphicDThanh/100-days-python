@@ -1,3 +1,4 @@
+# NOTE: This is the first version of game when use only hint 1
 ############### Blackjack Project #####################
 
 #Difficulty Normal 😎: Use all Hints below to complete the project.
