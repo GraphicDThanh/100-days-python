@@ -3,14 +3,36 @@
 ## Part 1: Beginner (from day 1 to day 14)
 
 ### Day 6 - Vượt thử thách bằng Python với Reeborg World
-- [The detail post](https://beautyoncode.com/giup-robot-reebord-vuot-thu-thach/) is from my blog, welcome to visit!
+- [My blog post](https://beautyoncode.com/giup-robot-reebord-vuot-thu-thach/)
 - [Play the game here](https://replit.com/@diemthanhthanh/Hangman-Demo) 
-- [Source code at here](https://github.com/GraphicDThanh/100-days-python/tree/main/7_hang_man)
+- [Source code here](https://github.com/GraphicDThanh/100-days-python/tree/main/7_hang_man)
 
 ### Day 7 - Làm game Hangman với Python
-- [The detail post](https://beautyoncode.com/lam-game-hangman-voi-python/) is from my blog, welcome to visit.
+- [My blog post](https://beautyoncode.com/lam-game-hangman-voi-python/) is from my blog, welcome to visit.
 - [Play the game here](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Hurdle%204&url=worlds%2Ftutorial_en%2Fhurdle4.json) 
-- [Source code at here](https://github.com/GraphicDThanh/100-days-python/tree/main/6_function_karel)
+- [Source code here](https://github.com/GraphicDThanh/100-days-python/tree/main/6_function_karel)
+
+### Day 8: Caesar Cipher
+- [Play the game here](https://replit.com/@diemthanhthanh/caesar-cipher-4-start)
+- [Source code here](https://github.com/GraphicDThanh/100-days-python/tree/main/beginner/day8/caesar-cipher)
+
+### Day 9: Blind audion program
+- [Play the game here](https://replit.com/@diemthanhthanh/blind-auction-start)
+- [Source code here](https://github.com/GraphicDThanh/100-days-python/tree/main/beginner/day9/blind-aution-program)
+
+### Day 10: Calculator
+- [Play the game here](https://replit.com/@diemthanhthanh/calculator-start)
+- [Source code here](https://github.com/GraphicDThanh/100-days-python/tree/main/beginner/day10/calculator)
+
+
+### Day 11: Blackjack Game
+- [Play the game here](https://replit.com/@diemthanhthanh/blackjack-start-1)
+- [Source code here](https://github.com/GraphicDThanh/100-days-python/tree/main/beginner/day11/black_jack_game)
+
+
+### Day 12: The Guessing Game Number
+- [Play the game here](https://replit.com/@diemthanhthanh/guess-the-number-start)
+- [Source code here](https://github.com/GraphicDThanh/100-days-python/tree/main/beginner/day12/guess_number)
 
 ## Part 2: Intermediate (from day 15 to day 31)
 
