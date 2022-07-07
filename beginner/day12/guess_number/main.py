@@ -23,7 +23,7 @@ def set_difficulty():
         return EASY_LEVEL_TURNS
     elif game_level == "hard":
         return HARD_LEVEL_TURNS
-
+    
 
 def game():
     print(logo)
@@ -31,7 +31,11 @@ def game():
     print("I'm thinking of a number between 1 and 100.")
     answer = randint(1, 100)
     turns = set_difficulty()
-    
+
+    if not turns:
+        print("Difficulty should be easy or hard.")
+        return
+
     guess = 0
     while guess != answer:
         print(f'You have {turns} attempts remaining to guess the number.')
